@@ -1,6 +1,4 @@
-Aqui está um código HTML completo que atende aos requisitos que você solicitou para o website "Pet Lover". Este arquivo inclui CSS interno, é otimizado para dispositivos móveis e possui as seções requeridas.
 
-<!DOCTYPE html>
 <html lang="pt-PT">
 
 <head>
@@ -159,8 +157,7 @@ Aqui está um código HTML completo que atende aos requisitos que você solicito
 
 </html>
 
-### Considerações
-- O arquivo HTML contém seções adequadas com placeholders onde você pode incluir imagens reais.
+
 - O design é responsivo, utilizando princípios mobile-first.
 - O conteúdo é redigido em português de Portugal e otimizado para SEO básico.
 - Lembre-se de ajustar o endereço de email e o telefone antes de usar o site.
